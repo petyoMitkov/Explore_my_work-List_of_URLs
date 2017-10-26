@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/NewLogoPM.png "New Logo PM Front-End")
+![alt text](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/NewLogoPM.svg "New Logo PM Front-End")
 
 
 # Explore my work - List of URLs
