@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/NewLogoPM.png "New Logo PM Front-End")
+
+
 # Explore my work - List of URLs
 
 ## ["Crows Misunderstood" florist workshop](https://vrani-nerazbrani.herokuapp.com/) 
