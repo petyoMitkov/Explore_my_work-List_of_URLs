@@ -7,7 +7,7 @@
 
 ---
 
-## [Hotel "Spaska"](https://petyomitkov.github.io/hotel-pri-spaska-selobania/) 
+## [Hotel "Spaska"](https://petyomitkov.github.io/hotel-pri-spaska-selobania/)
 ##### pseudo project
 - Statis web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap.
@@ -15,6 +15,7 @@
 ---
 
 ## <a href="http://elinor-sozopol.com/" target="_blank">"Apartments Elinor Budzhaka" - Sozopol</a>
+<a href="http://elinor-sozopol.com/" target="_blank">example</a>
 
 
 ##### real project
