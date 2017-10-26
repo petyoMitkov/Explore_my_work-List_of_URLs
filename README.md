@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/NewLogoPM.svg "")
+![PM Front-End](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/PMLogo/NewLogoPM.svg "")
 
 
 # Explore my work - List of URLs
@@ -8,6 +8,7 @@
 ##### in progress
 - Web site with CMS (Admin panel can manipulate the items in Gallery > Catalogs).
 - Tachnologys: Keystone.js(Node.js, MongoDB, Express.js), Handlebars, SASS, Bootstrap, Hosted on Heroku.
+![Crows Misunderstood](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Vrani-nerazbrani.jpg "")
 
 
 
