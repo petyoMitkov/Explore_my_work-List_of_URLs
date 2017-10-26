@@ -14,7 +14,7 @@
 
 ---
 
-## ["Apartments Elinor Budzhaka" - Sozopol](https://github.com/petyoMitkov/ElinorSozopol) 
+## ["Apartments Elinor Budzhaka" - Sozopol](http://www.elinor-sozopol.com/) 
 ##### real project
 - Small statis web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap, AngularJS.
