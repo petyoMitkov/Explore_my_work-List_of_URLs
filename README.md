@@ -14,7 +14,8 @@
 
 ---
 
-## ["Apartments Elinor Budzhaka" - Sozopol](http://www.elinor-sozopol.com/) 
+## <a href="http://www.elinor-sozopol.com/" target="_blank">"Apartments Elinor Budzhaka" - Sozopol</a>
+
 ##### real project
 - Small statis web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap, AngularJS.
