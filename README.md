@@ -17,7 +17,7 @@
 
 ## [Hotel "Spaska"](https://petyomitkov.github.io/hotel-pri-spaska-selobania/)
 ##### pseudo project
-- Statis web site.
+- Static web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap.
 
 ![Hotel "Spaska"](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Spaska.jpg "")
@@ -27,10 +27,10 @@
 
 ## ["Apartments Elinor Budzhaka" - Sozopol](http://elinor-sozopol.com/)
 ##### real project
-- Small statis web site.
+- Small static web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap, AngularJS.
 
-
+!["Apartments Elinor Budzhaka"](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Elinor.jpg "")
 
 ---
 
