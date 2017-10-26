@@ -9,8 +9,7 @@
 - Web site with CMS (Admin panel can manipulate the items in Gallery > Catalogs).
 - Tachnologys: Keystone.js(Node.js, MongoDB, Express.js), Handlebars, SASS, Bootstrap, Hosted on Heroku.
 
-
-
+!["Crows Misunderstood" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Vrani-nerazbrani.jpg "")
 
 ---
 
@@ -30,6 +29,8 @@
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap, AngularJS.
 
 !["Apartments Elinor Budzhaka" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Elinor.jpg "")
+
+
 
 ---
 
