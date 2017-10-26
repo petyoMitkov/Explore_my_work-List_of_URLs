@@ -14,7 +14,8 @@
 
 ---
 
-## <a href="http://www.elinor-sozopol.com/" target="_blank">"Apartments Elinor Budzhaka" - Sozopol</a>
+## <a href="http://elinor-sozopol.com/" target="_blank">"Apartments Elinor Budzhaka" - Sozopol</a>
+
 
 ##### real project
 - Small statis web site.
