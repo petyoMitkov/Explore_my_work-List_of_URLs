@@ -9,7 +9,7 @@
 - Web site with CMS (Admin panel can manipulate the items in Gallery > Catalogs).
 - Tachnologys: Keystone.js(Node.js, MongoDB, Express.js), Handlebars, SASS, Bootstrap, Hosted on Heroku.
 
-!["Crows Misunderstood" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Vrani-nerazbrani.jpg "")
+[!["Crows Misunderstood" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Vrani-nerazbrani.jpg "")](https://vrani-nerazbrani.herokuapp.com/)
 
 ---
 
@@ -18,7 +18,7 @@
 - Static web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap.
 
-![Hotel "Spaska" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Spaska.jpg "")
+[![Hotel "Spaska" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Spaska.jpg "")](https://petyomitkov.github.io/hotel-pri-spaska-selobania/)
 
 
 ---
@@ -28,7 +28,7 @@
 - Small static web site.
 - Tachnologys: HTML, CSS, JS(jQuery), Bootstrap, AngularJS.
 
-!["Apartments Elinor Budzhaka" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Elinor.jpg "")
+[!["Apartments Elinor Budzhaka" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Elinor.jpg "")](http://elinor-sozopol.com/)
 
 
 
