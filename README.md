@@ -9,7 +9,6 @@
 - Web application for lottery simulation
 - Technologys: AngularJS, SCSS, Bootstrap, HTML, Firebase - hosting
 
-[!["Tornado Names App" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/tornado-names.png "")](https://tornado-names-app.firebaseapp.com)
 
 
 ## ["Crows Misunderstood" florist workshop](https://vrani-nerazbrani.herokuapp.com/) 
