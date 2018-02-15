@@ -4,7 +4,7 @@
 
 # Explore my work - List of URLs
 
-## ["Tornado Names App"](https://tornado-names-app.firebaseapp.com) 
+## ["Tornado Names App"](https://tornado-names-app.firebaseapp.com) December 2017
 
 - Web application for lottery simulation
 - Technologies: AngularJS, SCSS, Bootstrap, HTML, Firebase - hosting
@@ -12,7 +12,7 @@
 [!["Tornado Names App" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/tornado-names.png "")](https://tornado-names-app.firebaseapp.com)
 
 
-## ["Crows Misunderstood" florist workshop](https://vrani-nerazbrani.herokuapp.com/) 
+## ["Crows Misunderstood" florist workshop](https://vrani-nerazbrani.herokuapp.com/) November 2017
 
 - Web site with CMS (Admin panel can manipulate the items in Gallery > Catalogs).
 - Technologies: Keystone.js(Node.js, MongoDB, Express.js), Handlebars, SASS, Bootstrap, Hosted on Heroku.
@@ -21,7 +21,7 @@
 
 ---
 
-## [Hotel "Spaska"](https://petyomitkov.github.io/hotel-pri-spaska-selobania/)
+## [Hotel "Spaska"](https://petyomitkov.github.io/hotel-pri-spaska-selobania/) October 2017
 ##### pseudo project
 - Static web site.
 - TTechnologies: HTML, CSS, JS(jQuery), Bootstrap.
@@ -31,7 +31,7 @@
 
 ---
 
-## ["Apartments Elinor Budzhaka" - Sozopol](http://elinor-sozopol.com/)
+## ["Apartments Elinor Budzhaka" - Sozopol](http://elinor-sozopol.com/) Jul 2017
 ##### real project
 - Small static web site.
 - Technologies: HTML, CSS, JS(jQuery), Bootstrap, AngularJS(only routing).
@@ -40,7 +40,7 @@
 
 ---
 
-## [My Old Portfolio Site](http://www.pm-frontend.com/)
+## [My Old Portfolio Site](http://www.pm-frontend.com/) April 2017
 ##### old site
 - Static web site.
 - Technologies: HTML, CSS, Bootstrap, JavaScript
@@ -49,7 +49,7 @@
 
 --
 
-## [Book Library](https://petyomitkov.github.io/BookLibrary/)
+## [Book Library](https://petyomitkov.github.io/BookLibrary/) March 2017
 ##### from SoftUni JS Aplications course
 - Technologies: HTML, CSS, JavaScript, jQuery, Kinvey
 
@@ -57,7 +57,7 @@
 
 --
 
-## [Phonebook](https://petyomitkov.github.io/PhoneBook/)
+## [Phonebook](https://petyomitkov.github.io/PhoneBook/) February 2017
 ##### from SoftUni JS Aplications course
 - Technologies: HTML, CSS, JavaScript, jQuery, Firebase (DB) 
 
@@ -65,7 +65,7 @@
 
 --
 
-## [Company Theme Bootsrap](https://petyomitkov.github.io/Bootstrap/02.%20Bootstrap%20Theme%20Company/index.html)
+## [Company Theme Bootsrap](https://petyomitkov.github.io/Bootstrap/02.%20Bootstrap%20Theme%20Company/index.html) January 2017
 ##### my vertion of example from w3chools.com
 - Technologies: HTML, CSS, Bootsrap, jQuery
 
@@ -73,7 +73,7 @@
 
 -- 
 
-## [Super Mario Edition Petyo Mitkov 2016](https://petyomitkov.github.io/Canvas/@%20Project_Super%20Mario%20Game/index.html)
+## [Super Mario Edition Petyo Mitkov 2016](https://petyomitkov.github.io/Canvas/@%20Project_Super%20Mario%20Game/index.html) December 2016
 ##### unfinished and the code not looks very well but simulat physics :)
 - Technologies: HTML-Canvas, JavaScript
 
