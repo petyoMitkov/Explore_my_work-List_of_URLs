@@ -45,7 +45,7 @@
 - Static web site.
 - Technologies: HTML, CSS, Bootstrap, JavaScript
 
-[![My Old Portfolio Site Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/pm-frontend.jpg "")](http://www.pm-frontend.com/)
+[![My Old Portfolio Site Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/pm-frontend2.jpg "")](http://www.pm-frontend.com/)
 
 --
 
