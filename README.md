@@ -28,16 +28,6 @@
 
 [![Hotel "Spaska" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Spaska.jpg "")](https://petyomitkov.github.io/hotel-pri-spaska-selobania/)
 
-
----
-
-## ["Apartments Elinor Budzhaka" - Sozopol](http://elinor-sozopol.com/) Jul 2017
-##### real project
-- Small static web site.
-- Technologies: HTML, CSS, JS(jQuery), Bootstrap, AngularJS(only routing).
-
-[!["Apartments Elinor Budzhaka" Image](https://github.com/petyoMitkov/Explore_my_work-List_of_URLs/blob/master/img/Elinor.jpg "")](http://elinor-sozopol.com/)
-
 ---
 
 ## [My Old Portfolio Site](http://www.pm-frontend.com/) April 2017
